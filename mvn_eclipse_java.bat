@@ -1,0 +1,1 @@
+mvn eclipse:clean eclipse:eclipse -T2.0C %1 %2 %3

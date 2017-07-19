@@ -1,0 +1,1 @@
+mvn eclipse:clean eclipse:eclipse -T4.0C -Dantrun.target=none -Dwtpversion=1.5 %1 %2 %3 

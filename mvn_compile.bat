@@ -1,0 +1,1 @@
+mvn compile -T2.0C -Dmaven.test.skip=true %1 %2 %3

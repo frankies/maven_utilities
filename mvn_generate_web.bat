@@ -1,0 +1,1 @@
+mvn archetype:generate -B -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=%1 -DartifactId=%2 -DpackageName=%1 -Dversion=1.0

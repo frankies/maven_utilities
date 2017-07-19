@@ -1,0 +1,1 @@
+mvn generate-sources -Dantrun.copyFile=true -T4.0C -o %1 %2 %3
